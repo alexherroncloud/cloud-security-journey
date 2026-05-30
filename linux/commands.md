@@ -1,6 +1,6 @@
-# Linux Commands
+## Linux Commands
 
-## echo
+# echo
 
 '''bash
 echo
@@ -8,14 +8,14 @@ echo
 
 display, or "print," text directly onto your terminal screen.
 
-## Notes
+# Notes
 
 - Linux is case sensitive.
 - Spaces between bytes matter
 
 ---
 
-## whoami
+# whoami
 
 '''bash
 whoami
@@ -24,7 +24,7 @@ current user session you are logged into and prints the associated username to t
 
 ---
 
-## id
+# id
 
 '''bash
 id
@@ -32,7 +32,7 @@ id
 
 to see what groups you belong to
 
-## Notes
+# Notes
 
 - uid: Your User ID (a unique numerical identifier).
 - gid: Your primary Group ID.
@@ -41,7 +41,7 @@ to see what groups you belong to
 ---
 
 
-## id -un
+# id -un
 
 '''bash
 id -un
@@ -49,7 +49,7 @@ id -un
 
 prints only your username.
 
-## Notes
+# Notes
 
 - You can use id to look up other users.
 - root is superuser; system admin
