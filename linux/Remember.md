@@ -14,3 +14,6 @@ process that follows. Are we biological machines?
 - command & syntax go hand in hand
 - mkdir wasn't installed "sudo apt install mkdir"
 - any file or directory name staring with a dot . is hidden
+- some explanations will be more detailed depending on context,tone,tool, & purpose.
+- if commits were implemented in social life...
+
