@@ -30,6 +30,7 @@ this flag [ -a ] will show all files including dot . hidden files.
 
 
 
+
 #note
 ls -la is equivalent to ls -l -a 
 
